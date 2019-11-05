@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="incident" version="2" view="it_hardware_issues">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - IT Hardware Issues" name="incident" related_list="NULL" sys_domain="global" view="b6c8f5f5db300010a7c7e9c948961962">50ccb5f9db300010a7c7e9c9489619d3</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 13:19:58</sys_created_on>
+            <sys_id>14ccb5f9db300010a7c7e9c9489619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 13:19:58</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - IT Hardware Issues" name="incident" related_list="NULL" sys_domain="global" view="b6c8f5f5db300010a7c7e9c948961962">50ccb5f9db300010a7c7e9c9489619d3</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:70e80f390a0a0b1b0035a51d8bbfd32c</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 13:19:58</sys_created_on>
+            <sys_id>9cccb5f9db300010a7c7e9c9489619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 13:19:58</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Incident - IT Hardware Issues</calculated_name>
+            <filter/>
+            <name>incident</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 13:19:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50ccb5f9db300010a7c7e9c9489619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident - IT Hardware Issues</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_incident_it_hardware_issues</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 13:19:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="IT Hardware Issues" name="it_hardware_issues">b6c8f5f5db300010a7c7e9c948961962</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
